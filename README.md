@@ -1,5 +1,5 @@
 # ArgoCD Example Apps
-
+*20230626-20230629 쿠버네티스 연수
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
